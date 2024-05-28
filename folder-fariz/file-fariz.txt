@@ -1,0 +1,2 @@
+Hellow world! This is commit from Fariz! :) 
+This is new changes from Fariz in the 2nd iteration.
